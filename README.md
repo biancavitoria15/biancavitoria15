@@ -7,7 +7,7 @@
 
 ### Linguagens que uso no meu dia a dia 💻
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![DataBase](https://img.shields.io/badge/DataBase-F7DF1E?style=for-the-badge&logo=DataBase&logoColor=black)
+
 
 
 ### 🛠️ Ferramentas que utilizo
