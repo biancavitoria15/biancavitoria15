@@ -2,7 +2,8 @@
 
 🎓 **Análise e Desenvolvimento de Sistemas - FIAP**  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_GITHUB&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dark)
+
 
 
 ### Linguagens que uso no meu dia a dia 💻
