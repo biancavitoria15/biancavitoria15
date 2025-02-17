@@ -1,13 +1,13 @@
-## Olá, sou a Bianca!  😄👋
+## Hi, I’m @biancavitoria!  😄👋
 
 🎓 **Análise e Desenvolvimento de Sistemas - FIAP**  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_GITHUB&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Linguagens que uso no meu dia a dia 💻
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 
 ### 🛠️ Ferramentas que utilizo
@@ -16,3 +16,5 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Astah](https://img.shields.io/badge/Astah-26A69A?style=for-the-badge&logoColor=white)
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN) 
