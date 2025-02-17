@@ -17,4 +17,5 @@
 ![Astah](https://img.shields.io/badge/Astah-26A69A?style=for-the-badge&logoColor=white)
 
 
+📫 **Entre em contato:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_LINKEDIN) 
